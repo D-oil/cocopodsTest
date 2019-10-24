@@ -1,0 +1,22 @@
+{
+  "name": "cocopodsTest",
+  "version": "0.1.0",
+  "summary": "A short description of cocopodsTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/D-oil/cocopodsTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "D-oil": "1064402800@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/D-oil/cocopodsTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "cocopodsTest/Classes/**/*"
+}
